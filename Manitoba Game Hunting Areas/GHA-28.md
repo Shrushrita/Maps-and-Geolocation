@@ -1,4 +1,4 @@
-``geojson
+```geojson
 
 {
   "type": "FeatureCollection",
